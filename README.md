@@ -21,7 +21,6 @@ Take special care if you are using a reMarkable 2:
 - - [Games](#games)
 - - [Launchers](#launchers)
 - [Cloud Tools](#cloud-tools)
-- [Device Tools](#device-tools)
 - [GUI Clients](#gui-clients)
 - [Other](#other)
 - [Screen Sharing/Streaming](#screen-sharingstreaming)
